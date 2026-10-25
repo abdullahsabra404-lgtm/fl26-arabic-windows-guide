@@ -4,6 +4,8 @@
 
 ## ابدأ هون
 
+[صفحة تنزيل PDF والحزم](https://github.com/abdullahsabra404-lgtm/fl26-arabic-windows-guide/releases/tag/v0.1-review)
+
 1. [نزّل دليل PDF بالسوري](FL26-Windows11-Syrian-Arabic-Guide.pdf?raw=true).
 2. [نزّل الحزمة التفاعلية مع الصور والبرامج المساعدة](FL26-Windows11-Syrian-Arabic-Guide.zip?raw=true). فك ضغط ZIP وافتح **OPEN-GUIDE.html**.
 3. [دليل Linux / Wine منفصل](GUIDE-LINUX.md).
